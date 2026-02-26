@@ -6,12 +6,28 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://vdfreight.com/about.html</loc>
+    <loc>https://www.vdfreight.com/index.html</loc>
+    <lastmod>2026-02-26</lastmod>
+    <priority>1.0</priority>
+  </url>
+  https://www.vdfreight.com/index.html
+  <url>
+    <loc>https://www.vdfreight.com/about.html</loc>
     <lastmod>2026-02-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vdfreight.com/contact.html</loc>
+    <loc>https://www.vdfreight.com/privacy-policy.html</loc>
+    <lastmod>2026-02-26</lastmod>
+    <priority>1.0</priority>
+  </url>
+   <url>
+    <loc>https://www.vdfreight.com/terms-conditions.html</loc>
+    <lastmod>2026-02-26</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.vdfreight.com/contact.html</loc>
     <lastmod>2026-02-26</lastmod>
     <priority>0.8</priority>
   </url>
